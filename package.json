@@ -75,7 +75,7 @@
     "react-text-mask": "^5.4.3",
     "resolve": "1.14.2",
     "router5": "7.0.2",
-    "sass-loader": "8.0.0",
+    "sass-loader": "8.0.2",
     "serializr": "1.5.4",
     "terser-webpack-plugin": "2.3.2",
     "typescript": "^3.6.3",
