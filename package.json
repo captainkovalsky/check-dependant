@@ -113,7 +113,7 @@
     "eslint-plugin-react": "^7.13.0",
     "faker": "^4.1.0",
     "fast-xml-parser": "^3.12.16",
-    "madge": "^3.4.4"
+    "madge": "^3.7.0"
   },
   "jest": {
     "collectCoverageFrom": [
