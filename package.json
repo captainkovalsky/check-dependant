@@ -71,7 +71,7 @@
     "react-jss": "^10.0.0-alpha.3",
     "react-lottie": "^1.2.3",
     "react-slick": "^0.25.2",
-    "react-swipeable-views": "^0.13.1",
+    "react-swipeable-views": "^0.13.7",
     "react-text-mask": "^5.4.3",
     "resolve": "1.14.2",
     "router5": "7.0.2",
