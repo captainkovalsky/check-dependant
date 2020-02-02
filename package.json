@@ -110,7 +110,7 @@
     "docz": "^2.2.0",
     "docz-theme-default": "^1.2.0",
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-react": "^7.18.2",
     "faker": "^4.1.0",
     "fast-xml-parser": "^3.12.16",
     "madge": "^3.4.4"
