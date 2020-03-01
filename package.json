@@ -74,7 +74,7 @@
     "react-swipeable-views": "^0.13.1",
     "react-text-mask": "^5.4.3",
     "resolve": "1.14.2",
-    "router5": "7.0.2",
+    "router5": "8.0.0",
     "sass-loader": "8.0.0",
     "serializr": "1.5.4",
     "terser-webpack-plugin": "2.3.2",
