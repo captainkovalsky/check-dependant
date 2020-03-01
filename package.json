@@ -76,7 +76,7 @@
     "resolve": "1.14.2",
     "router5": "7.0.2",
     "sass-loader": "8.0.0",
-    "serializr": "1.5.4",
+    "serializr": "2.0.0",
     "terser-webpack-plugin": "2.3.2",
     "typescript": "^3.6.3",
     "url-loader": "3.0.0",
