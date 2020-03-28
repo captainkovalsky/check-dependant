@@ -57,7 +57,7 @@
     "mobx-logger": "^0.7.1",
     "mobx-react-lite": "^1.1.0",
     "mobx-utils": "^5.4.1",
-    "node-rsa": "^1.0.3",
+    "node-rsa": "^1.0.8",
     "pnp-webpack-plugin": "1.5.0",
     "prop-types": "^15.6.2",
     "qrcode": "^1.4.1",
