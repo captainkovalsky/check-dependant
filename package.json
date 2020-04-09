@@ -45,7 +45,7 @@
     "git-rev-sync": "^2.0.0",
     "graphql-request": "1.8.2",
     "hard-source-webpack-plugin": "^0.13.1",
-    "html-webpack-plugin": "4.0.0-beta.5",
+    "html-webpack-plugin": "4.2.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
     "jest-pnp-resolver": "1.2.1",
