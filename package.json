@@ -34,7 +34,7 @@
     "bfj": "7.0.2",
     "canvas": "^2.6.0",
     "class-validator-forked-op": "1.0.0",
-    "compression-webpack-plugin": "^3.1.0",
+    "compression-webpack-plugin": "^4.0.0",
     "copy-to-clipboard": "^3.2.0",
     "date-fns": "2.9.0",
     "dotenv": "8.2.0",
